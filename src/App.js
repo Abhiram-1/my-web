@@ -66,7 +66,7 @@ function App() {
             Developer<span className="blinking-dot">.</span>
           </h1>
           <p className="typing-animation">
-           Crafting elegant, user-friendly solutions with passion.
+           Creating elegant solutions with passion.
           </p>
         </section>
       </main>
