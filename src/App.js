@@ -234,7 +234,7 @@ function App() {
                 </div>
                 <div className="project-card">
                   <img
-                    src={project2}
+                    src={project3}
                     alt="Google Gemini 2.0 Clone"
                     className="project-image"
                   />
@@ -249,7 +249,7 @@ function App() {
                 </div>
                 <div className="project-card">
                   <img
-                    src={project3}
+                    src={project2}
                     alt="Movie Recommendation System"
                     className="project-image"
                   />
