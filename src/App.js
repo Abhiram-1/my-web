@@ -66,7 +66,7 @@ function App() {
             Developer<span className="blinking-dot">.</span>
           </h1>
           <p className="typing-animation">
-            I design and code beautifully simple things, and I love what I do.
+           Crafting elegant, user-friendly solutions with passion.
           </p>
         </section>
       </main>
